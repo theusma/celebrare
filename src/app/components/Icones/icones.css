@@ -1,0 +1,21 @@
+.icones {
+    display: flex;
+    align-items: center;
+  }
+
+  .qtd {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    background: #141718;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    color: var(--White, #FFF);
+    text-align: center;
+    margin-left: 5px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 10px;
+  }

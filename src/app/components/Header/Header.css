@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+.container{
+    max-width: 1120px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.header {
+    height: 60px;
+}
